@@ -12,11 +12,17 @@ I'm Felipe, a full-stack software engineer based in Galway, Ireland. Currently c
 #### GitHub stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=lipex360x&show_icons=true&line_height=27&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api?username=lipex360x&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=lipex360x&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" />
+  </picture>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lipex360x&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lipex360x&layout=compact&hide_border=true&langs_count=8&theme=github_dark" />
+    <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lipex360x&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
+  </picture>
 </a>
 
 - I write code more than I write blog posts, but you can see what I'm shipping live at [github.com/lipex360x](https://github.com/lipex360x).
