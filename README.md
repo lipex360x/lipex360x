@@ -26,7 +26,7 @@ I'm Felipe, a full-stack software engineer based in Galway, Ireland. Currently c
 </a>
 
 - I write code more than I write blog posts, but you can see what I'm shipping live at [github.com/lipex360x](https://github.com/lipex360x).
-- Occasional writing on [dev.to/lipex360](https://dev.to/lipex360). Latest: [Environment variable validation in Node.js APIs (PT-BR)](https://dev.to/lipex360/garanta-a-integridade-da-sua-aplicacao-aprenda-validar-variaveis-de-ambiente-em-apis-nodejs-1fma).
+- Long-form content in **Portuguese**: writing on [dev.to/lipex360](https://dev.to/lipex360) (latest: [validating environment variables in Node.js APIs](https://dev.to/lipex360/garanta-a-integridade-da-sua-aplicacao-aprenda-validar-variaveis-de-ambiente-em-apis-nodejs-1fma)) and a [YouTube playlist on building a complete REST API end-to-end](https://www.youtube.com/playlist?list=PLNa15e-jsEYfeHpM8V3Arl9S2TOP0ofNr).
 - Open to work in Ireland: eligible to work, no employer sponsorship required.
 
 ### What I do
